@@ -90,7 +90,7 @@ let humanWin = humanScore;
     let computerWin = computerScore;
 
     if (humanWin > computerWin) {
-    console.log("Your the winner");
+    console.log("You are the winner");
 } else {
     console.log("Computer is the winner");
 

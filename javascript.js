@@ -92,6 +92,6 @@ let humanWin = humanScore;
     if (humanWin > computerWin) {
     console.log("Your the winner");
 } else {
-    console.log("Compurer is the winner");
+    console.log("Computer is the winner");
 
 }
